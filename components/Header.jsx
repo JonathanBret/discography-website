@@ -22,7 +22,7 @@ const Header = () => {
             src="https://lottie.host/f082b425-5615-4755-bae4-62bfde5a313e/86OoTjX5fv.lottie"
             loop
             autoplay
-            className="scale-100"
+            className="h-30 w-50 p-3"
           />
         </div>
         </nav>
